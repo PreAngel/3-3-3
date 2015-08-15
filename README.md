@@ -52,8 +52,9 @@
 ============
 |#|项目名|一句话介绍(10)|场景带入(10)|解决方案(10)|市场规模(10)|商业模式(10)|竞争分析(10)|市场切入(10)|执行规划(10)|团队(10)|资金股权(10)|最终得分(100)|【投资金额】|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 项目1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 项目2 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 项目3 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 挑战60秒内打动投资人，李卓桓3-3-3拟真路演等你来~
            
@@ -73,6 +74,7 @@
 ## PreAngel简介
 PreAngel是IT桔子投资数据库里一家非常活跃的早期天使投资机构，不同于传统的天使投资，PreAngel定位于创业公司的“职业联合创始人”。为创业者提供创业指导，帮助梳理商业模式和连接行业资源等帮助。
 PreAngel带来的不是钱，是产业信息、产业人脉、项目背书、市场曝光以及后期每个阶段的风险资本。PreAngel将锁定移动互联网产业领域，借助自己深刻的认识和资源积累，投资与特别早期的创业团队并且帮助他们成长。
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">3-3-3</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="http://weibo.com/lizhuohuan" property="cc:attributionName" rel="cc:attributionURL">李卓桓</a> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。<br />基于<a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/zixia/3-3-3" rel="dct:source">http://github.com/zixia/3-3-3</a>上的作品创作。
