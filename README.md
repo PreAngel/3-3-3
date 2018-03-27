@@ -77,3 +77,9 @@ PreAngel是IT桔子投资数据库里一家非常活跃的早期天使投资机�
 PreAngel带来的不是钱，是产业信息、产业人脉、项目背书、市场曝光以及后期每个阶段的风险资本。PreAngel将锁定移动互联网产业领域，借助自己深刻的认识和资源积累，投资与特别早期的创业团队并且帮助他们成长。
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">3-3-3</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="http://weibo.com/lizhuohuan" property="cc:attributionName" rel="cc:attributionURL">李卓桓</a> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。<br />基于<a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/zixia/3-3-3" rel="dct:source">http://github.com/zixia/3-3-3</a>上的作品创作。
+
+# LINKS
+
+* [PDF版: PreAngel公开课 - 60秒打动投资人路演模拟 - 投资打分表.pdf](https://zixia.github.io/3-3-3/downloads/PreAngel公开课%20-%2060秒打动投资人路演模拟%20-%20投资打分表.pdf)
+* [Excel版: PreAngel公开课 - 60秒打动投资人路演模拟 - 投资打分表.xlsx](https://zixia.github.io/3-3-3/downloads/PreAngel公开课%20-%2060秒打动投资人路演模拟%20-%20投资打分表.xlsx)
+* [Steve Jobs: Brand's Core Value](https://v.qq.com/x/page/z0550ssg6lw.html)
