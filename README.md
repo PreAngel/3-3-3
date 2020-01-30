@@ -1,7 +1,8 @@
 # 3-3-3
 《3三叁》 - 60秒打动投资人拟真路演课
 
-## 学生要求
+## 要求
+
 1、公司人数超过15人的不要
 2、非创始人CEO不要
 3、非创业公司不要（如咨询、顾问、投资公司）
@@ -9,6 +10,7 @@
 5、项目创立时间早于18个月的不要
 
 ## 活动安排及报名
+
 主题：如何在一分钟之内让投资人对你产生兴趣？  
 时间：2-3小时  
 人数：10-15名创始人  
@@ -28,6 +30,7 @@
 1. 评分表人手一份
 
 ## 课前作业
+
 培训前期准备，为了保证活动收获大，参加的同学需要提交以下4个课前作业：
 * 一句话。写下自己的项目想出一句话描述。要求：别人一听就知道是做什么具体事情的，不超过70字； 
  如：我们卖不用马拉的马车（汽车刚被发明出来时的表达）
@@ -78,7 +81,12 @@ PreAngel带来的不是钱，是产业信息、产业人脉、项目背书、市
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">3-3-3</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="http://weibo.com/lizhuohuan" property="cc:attributionName" rel="cc:attributionURL">李卓桓</a> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。<br />基于<a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/zixia/3-3-3" rel="dct:source">http://github.com/zixia/3-3-3</a>上的作品创作。
 
-# LINKS
+## My Talks
+
+- [PreAngel公开课：30秒打动投资人 - 电梯演讲篇](https://pre-angel.com/selling-startup-via-elevator-pitch/)
+- [PreAngel公开课：3分钟打动投资人 - 商业计划书篇](https://pre-angel.com/selling-startup-via-bizplan/)
+
+## LINKS
 
 * [PDF版: PreAngel公开课 - 60秒打动投资人路演模拟 - 投资打分表.pdf](https://zixia.github.io/3-3-3/downloads/PreAngel公开课%20-%2060秒打动投资人路演模拟%20-%20投资打分表.pdf)
 * [Excel版: PreAngel公开课 - 60秒打动投资人路演模拟 - 投资打分表.xlsx](https://zixia.github.io/3-3-3/downloads/PreAngel公开课%20-%2060秒打动投资人路演模拟%20-%20投资打分表.xlsx)
